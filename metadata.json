@@ -1,0 +1,6 @@
+{
+  "name": "EndoSim-WCE",
+  "description": "Real-time simulation framework for Wireless Capsule Endoscopy featuring UWB localization, magnetic locomotion, procedural endoscopic vision, and pathology detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for the Web-Based Real-Time Simulation Framework for Wireless Capsule Endoscopy (WCE), integrating UWB localization (Trilateration NLS, TDoA Chan, EKF, Particle Filter, CRLB), electromagnetic locomotion (Biot-Savart 4-coil array, pressure-based path planning E_pp), procedural 3D endoscopic camera with real-time lesion detection (RTMDet, YOLOv3, SSD300 benchmarking), trajectory mapping & traceability, and dual Clinician/Engineer workspaces.",
+  "updatedAt":  "2026-10-12T09:13:52.028475070Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
